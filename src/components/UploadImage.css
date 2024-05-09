@@ -1,0 +1,5 @@
+input[type="file"],
+button {
+  float: left;
+  margin-right: 10px; /* Optional: Add some space between the input and the button */
+}
